@@ -12,5 +12,6 @@ La transformada discreta de Fourier nos facilita el manejo de las señales al po
 
 Dentro de este archivo se cuenta con una clase definida de la transformada discreta de Fourier donde se hace uso de una señal de entrada y mediante una sumatoria se obtiene como salida tanto la parte real como imaginaria de la transformada discreta de Fourier. A su vez se cuenta con las funciones para el calculo de la magnitud, fase y transformada discreta inversa de Fourier para poder así observar frecuencias y composición y descomposición de señales.
 
-OBSERVACIONES
+OBSERVACIONES:
+
 Para el uso de un archivo externo (.DAT) es necesario importar el archivo de texto dentro del archivo waveform.cpp tanto para la clase como la para libreria para "Convolution" y "DFT"
