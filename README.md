@@ -8,7 +8,7 @@ El algoritmo calcula la convolución mediante una sumatoria representada en un c
 
 Transformada de Fourier
 
-Transformada discreta de Fourier nos facilita el manejo de las señales al poder expresarla como una combinación lineal de términos permitiéndonos ver la distribución de frecuencias de la señal permitiendo tener valores para cada tiempo determinado.
+La transformada discreta de Fourier nos facilita el manejo de las señales al poder expresarla como una combinación lineal de términos permitiéndonos ver la distribución de frecuencias de la señal permitiendo tener valores para cada tiempo determinado.
 
 Dentro de este archivo se cuenta con una clase definida de la transformada discreta de Fourier donde se hace uso de una señal de entrada y mediante una sumatoria se obtiene como salida tanto la parte real como imaginaria de la transformada discreta de Fourier. A su vez se cuenta con las funciones para el calculo de la magnitud, fase y transformada discreta inversa de Fourier para poder así observar frecuencias y composición y descomposición de señales.
 
