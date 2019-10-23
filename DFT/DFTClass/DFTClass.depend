@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570750782 source:c:\users\javaq\onedrive\escritorio\algoritmos\dftclass\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	"DFT.hpp"
+
+1570750358 c:\users\javaq\onedrive\escritorio\algoritmos\dftclass\dft.hpp
+	<iostream>
+	<cmath>
+	<fstream>
+
+1570750870 source:c:\users\javaq\onedrive\escritorio\algoritmos\dftclass\dft.cpp
+	"DFT.hpp"
+
+1541528688 source:c:\users\javaq\onedrive\escritorio\algoritmos\dftclass\waveforms.cpp
+
